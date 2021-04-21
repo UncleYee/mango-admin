@@ -1,3 +1,3 @@
 # Mango Admin
 
-Mango Admin is the management background of Mango CMS.
+Mango Admin is the management background for Mango CMS.
