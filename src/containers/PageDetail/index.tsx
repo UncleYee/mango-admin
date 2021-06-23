@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
 
-import styles from './index.module.less';
+import styles from './index.module.scss';
 
-const PageDetail = () => {
+const PageDetail: React.FC = () => {
   useEffect(() => {
 
   }, []);

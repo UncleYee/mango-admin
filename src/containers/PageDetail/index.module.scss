@@ -1,0 +1,16 @@
+.page-detail {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+
+  :global {
+    .components {
+      width: 300px;
+      background-color: #eee;
+    }
+
+    .content {
+      flex: 1;
+    }
+  }
+}

@@ -7,7 +7,7 @@ const PageList: React.FC = () => {
   }, []);
 
   return (
-    <div>
+    <div className="page-list">
       page list
     </div>
   );
