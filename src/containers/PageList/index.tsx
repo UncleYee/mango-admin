@@ -11,6 +11,6 @@ const PageList: React.FC = () => {
       page list
     </div>
   );
-}
+};
 
 export default PageList;

@@ -11,6 +11,12 @@
 
     .content {
       flex: 1;
+      overflow: overlay;
+
+      iframe {
+        width: 375px; 
+        min-height: 1800px;
+      }
     }
   }
 }

@@ -18,7 +18,7 @@ const PageDetail: React.FC = () => {
         </div>
       </div>
     </div>
-  )
+  );
 };
 
 export default PageDetail;
